@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Reminders</string>
+    <string name="password">Password</string>
+    <string name="general_info">General Info</string>
+    <string name="macbook_password">MacBook password</string>
+    <string name="laptop_image">Laptop image</string>
+    <string name="college_i_d_password">College I\'d password</string>
+    <string name="college_image">College image</string>
+    <string name="gmail_password">Gmail password</string>
+    <string name="gmail_logo">Gmail logo</string>
+    <string name="wifi_password">Wifi password</string>
+    <string name="wifi_logo">Wifi logo</string>
+    <string name="phone_no">Phone NO</string>
+    <string name="aadhar_no">Aadhar NO</string>
+    <string name="roll_no">Roll NO</string>
+</resources>

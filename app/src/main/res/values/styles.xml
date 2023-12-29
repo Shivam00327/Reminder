@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Icon">
+        <item name="tint">?attr/colorPrimary</item>
+    </style>
+    <style name="Card">
+        <item name="strokeColor">?attr/colorPrimaryContainer</item>
+        <item name="strokeWidth">1dp</item>
+
+    </style>
+    <style name="Text">
+
+    </style>
+    <style name="Text.heading">
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">bold</item>
+
+
+    </style>
+    <style name="Text.value">
+
+
+    </style>
+
+</resources>
